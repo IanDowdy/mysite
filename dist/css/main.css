@@ -207,7 +207,7 @@ main {
   color: #fff; }
 
 .btn-light {
-  background: lighter(#444, 50);
+  background: #c4c4c4;
   color: #333; }
 
 #main-footer {
